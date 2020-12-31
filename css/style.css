@@ -5,7 +5,6 @@ body, html {
     font: 16px "Lato", sans-serif;
     color: #777;
     height: 100%;
-    border: 1px solid red;
 }
 
 .conteudo {
@@ -28,7 +27,7 @@ p {
 /* Efeito Parallax
 -------------------------------*/
 .caixa1, .caixa2, .caixa3, .caixa4 {
-    border: 1px solid red;
+    position: relative;
     height: 100%;
     opacity: 0.6;
     background-repeat: none;
@@ -52,4 +51,21 @@ p {
 
 .caixa4 {
     background-image: url(../images/imagem4.jpg);
+}
+
+.conteudo-titulo {
+    position: absolute;
+    left: 0;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+}
+
+.conteudo-titulo span.titulo {
+    color: #fff;
+    background-color: #111;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
 }
