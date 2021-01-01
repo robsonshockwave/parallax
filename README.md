@@ -1,5 +1,7 @@
 # Parallax
-Um site simples criado para usar o efeito parallax.<br>
+Um site simples criado para usar o efeito parallax.
+
+
 <strong><em>Lembrando que foi utilizado apenas HTML e CSS para a criação do efeito.</em></strong>
 <hr>
 <p align="center">
