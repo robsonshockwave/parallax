@@ -8,4 +8,7 @@ Um site simples criado para usar o efeito parallax.
 	<img alt="exemplo" src="github/exemplo.gif">
 </p>
 
-<h6>Espero que goste!</h6>
+<h6>
+	Espero que goste!
+	Feito com ♥ por Robson!
+</h6>
